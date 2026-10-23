@@ -19,20 +19,23 @@ home_module:
   authors:
     title: Authors
     sections:
-      - title: ''
+      - title: Curators
+        people:
+          - name: 'Pjotr Oosterbroek (Naturalis Biodiversity Center, Netherlands) '
+            role: 'pioneered the global taxonomic database of crane flies as curator of the Catalogue of the Craneflies of the World (CCW) until [202X]. We are grateful for his major contributions and approval to carry his work forward. A new community of curators has been responsible for updating the database since 2026. To be added as a curator of taxonomic or biological data, please contact: Dr. Matthew J. Petersen at pet03207[at]umn.edu '
+            location: ''
+            image: ''
+      - title: List of Active Curators
         people:
           - name: Robin P. Marquez
-            role: Lead Author & Editor
             location: Department of Entomology, University of Minnesota, USA
             image: ''
           - name: Matthew J. Petersen
-            role: Project Director & Author
             location: Department of Entomology, University of Minnesota, USA
             image: ''
-      - title: Major Contributors
-        people:
-          - name: Pjotr Oosterbroek
-            role: Original Author
-            location: Naturalis Biodiversity Center, Netherlands
-            image: ''
     showFooter: false
+  description:
+    paragraphs:
+      - 'About crane flies:'
+      - 'Citation for web version: CFW Community. 2026. Crane Flies of the World Website. [Website]. Accessed on [date].'
+      - 'History of the database:'
