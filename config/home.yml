@@ -1,0 +1,38 @@
+---
+home_module:
+  hero:
+    title: Crane Flies of the World (CFW)
+    images:
+      - src: https://inaturalist-open-data.s3.amazonaws.com/photos/754339566/large.jpg
+        label: Toxorhina magna
+        copyright: Photolith
+        otuId: ''
+      - src: https://inaturalist-open-data.s3.amazonaws.com/photos/753698875/large.jpg
+        label: Epiphragma solatrix
+        copyright: Giff Beaton
+        otuId: ''
+      - src: https://inaturalist-open-data.s3.amazonaws.com/photos/752250514/large.jpg
+        label: Elephantomyia hokkaidensis
+        copyright: 'WATANABE Hitoshi 渡辺仁 '
+        otuId: ''
+    subtitle: (Under Construction)
+  authors:
+    title: Authors
+    sections:
+      - title: ''
+        people:
+          - name: Robin P. Marquez
+            role: Lead Author & Editor
+            location: Department of Entomology, University of Minnesota, USA
+            image: ''
+          - name: Matthew J. Petersen
+            role: Project Director & Author
+            location: Department of Entomology, University of Minnesota, USA
+            image: ''
+      - title: Major Contributors
+        people:
+          - name: Pjotr Oosterbroek
+            role: Original Author
+            location: Naturalis Biodiversity Center, Netherlands
+            image: ''
+    showFooter: false
