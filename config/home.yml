@@ -3,18 +3,54 @@ home_module:
   hero:
     title: Crane Flies of the World (CFW)
     images:
-      - src: https://inaturalist-open-data.s3.amazonaws.com/photos/754339566/large.jpg
-        label: Toxorhina magna
-        copyright: Photolith
-        otuId: ''
-      - src: https://inaturalist-open-data.s3.amazonaws.com/photos/753698875/large.jpg
-        label: Epiphragma solatrix
-        copyright: Giff Beaton
-        otuId: ''
+      - src: https://inaturalist-open-data.s3.amazonaws.com/photos/31738954/medium.jpg
+        label: Epiphragma ocellare
+        copyright: Соколков Юрий Павлович
+        otuId: 1730832
+      - src: https://inaturalist-open-data.s3.amazonaws.com/photos/182298542/medium.jpeg
+        label: Clytocosmus edwardsi
+        copyright: Reiner Richter
+        otuId: 1723679
       - src: https://inaturalist-open-data.s3.amazonaws.com/photos/752250514/large.jpg
         label: Elephantomyia hokkaidensis
         copyright: 'WATANABE Hitoshi 渡辺仁 '
-        otuId: ''
+        otuId: 1736161
+      - src: https://inaturalist-open-data.s3.amazonaws.com/photos/111853475/medium.jpeg
+        label: Leptotarsus atroflavus
+        copyright: Uwe Schneehagen
+        otuId: 1733093
+      - src: https://static.inaturalist.org/photos/38943461/medium.jpg
+        label: Pselliophora flavibasis
+        copyright: Suipoon Kwan
+        otuId: 1724806
+      - src: https://inaturalist-open-data.s3.amazonaws.com/photos/16383330/medium.jpg
+        label: Discobola haetara
+        copyright: Steve Kerr
+        otuId: 2613566
+      - src: https://inaturalist-open-data.s3.amazonaws.com/photos/379841556/medium.jpg
+        label: Cylindrotoma distinctissima
+        copyright: Gertraud Seiser
+        otuId: 2610827
+      - src: https://inaturalist-open-data.s3.amazonaws.com/photos/155055244/medium.jpg
+        label: Liogma nodicornis
+        copyright: Julia Beach
+        otuId: 2618171
+      - src: https://inaturalist-open-data.s3.amazonaws.com/photos/346494939/medium.jpg
+        label: Diogma glabrata
+        copyright: Pentti Ketola
+        otuId: 2612903
+      - src: https://static.inaturalist.org/photos/35220787/medium.jpg
+        label: Pedicia rivosa
+        copyright: jenjen88
+        otuId: 2619294
+      - src: https://static.inaturalist.org/photos/90363287/medium.jpg
+        label: Dicranota flaveola
+        copyright: Alain Hogue
+        otuId: 2620494
+      - src: https://inaturalist-open-data.s3.amazonaws.com/photos/164161030/medium.jpeg
+        label: Dicranota maculata
+        copyright: giantcicada
+        otuId: 2619629
     subtitle: (Under Construction)
   authors:
     title: Authors
@@ -30,12 +66,14 @@ home_module:
           - name: Robin P. Marquez
             location: Department of Entomology, University of Minnesota, USA
             image: ''
+            role: Lead Author & Editor
           - name: Matthew J. Petersen
             location: Department of Entomology, University of Minnesota, USA
             image: ''
+            role: Project Director
     showFooter: false
   description:
     paragraphs:
       - 'About crane flies:'
-      - 'Citation for web version: CFW Community. 2026. Crane Flies of the World Website. [Website]. Accessed on [date].'
+      - 'Citation: R.P. Marquez & M.J. Petersen. 2026. Crane Flies of the World Website. www.craneflies.org. Accessed on [date].'
       - 'History of the database:'
