@@ -75,5 +75,14 @@ home_module:
   description:
     paragraphs:
       - 'About crane flies:'
-      - 'Citation: R.P. Marquez & M.J. Petersen. 2026. Crane Flies of the World Website. www.craneflies.org. Accessed on [date].'
+      - 'Citation: R.P. Marquez & M.J. Petersen. 2026. Crane Flies of the World Website. robinpmarquez.github.io/taxonpages. Accessed on [date].'
       - 'History of the database:'
+  data:
+    types:
+      projectSources: true
+      collectionObjects: true
+      validExtantSpecies: true
+      citations: true
+      mediaSounds: false
+      validSpecies: true
+      taxonNames: true
